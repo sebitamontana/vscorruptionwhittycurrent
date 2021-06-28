@@ -1,0 +1,3 @@
+Deprave:whittyCorrupt:7
+Pressure:whittyCorrupt2:7
+Infernum:whittyCrazyCorrupt:7

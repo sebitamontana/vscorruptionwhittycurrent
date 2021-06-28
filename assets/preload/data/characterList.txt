@@ -1,0 +1,11 @@
+bf
+gf
+gf-corrupt
+blank
+bf-corrupt
+bf-infernum
+whittyCorrupt
+whittyCorrupt2
+whittyCrazyCorrupt
+whittyCrazyCorrupt2
+whittyCrazyCorrupt3
